@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\bin\Debug\net6.0-windows\String Notes Student.exe
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\bin\Debug\net6.0-windows\String Notes Student.deps.json
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\bin\Debug\net6.0-windows\String Notes Student.runtimeconfig.json
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\bin\Debug\net6.0-windows\String Notes Student.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\bin\Debug\net6.0-windows\String Notes Student.pdb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String_Notes_Student.Form1.resources
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\refint\String Notes Student.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.pdb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\String Notes Student.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Notes Student - Complete\String Notes Student\obj\Debug\net6.0-windows\ref\String Notes Student.dll
