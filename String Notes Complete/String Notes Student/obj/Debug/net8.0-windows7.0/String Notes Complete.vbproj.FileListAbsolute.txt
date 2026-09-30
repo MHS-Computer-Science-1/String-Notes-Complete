@@ -1,0 +1,16 @@
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\bin\Debug\net8.0-windows7.0\String Notes Complete.exe
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\bin\Debug\net8.0-windows7.0\String Notes Complete.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\bin\Debug\net8.0-windows7.0\String Notes Complete.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\bin\Debug\net8.0-windows7.0\String Notes Complete.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\bin\Debug\net8.0-windows7.0\String Notes Complete.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String_Notes_Student.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\refint\String Notes Complete.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\String Notes Complete.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\String Notes Complete\String Notes Student\obj\Debug\net8.0-windows7.0\ref\String Notes Complete.dll
